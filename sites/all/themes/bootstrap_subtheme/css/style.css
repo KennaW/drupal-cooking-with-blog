@@ -1,0 +1,79 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+
+body {
+    font-family: Montserrat, Helvetica, Verdana, 'open sans';
+    font-size: 13px;
+
+    line-height: 20px;
+    color: #666;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    background: #fff;
+    padding: 0;
+}
+h2, h2 a {
+    color: #222;
+}
+p {
+    display: block;
+    margin: 30px auto;
+    text-align: left;
+    letter-spacing: -0.01em;
+}
+
+
+.block-views .views-field-title {
+    position: absolute;
+    bottom: 200px;
+    right: 232px;
+    font-size: 20px;
+    text-align: center;
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+    width: 235px;
+    line-height: 90px;
+
+}
+
+span.field-content a:first-child {
+    color: white;
+}
+
+.views_slideshow_pager_field_item .views-field-counter .view-label-counter {
+    display: none;
+}
+
+.views_slideshow_pager_field_item .views-field-counter {
+    float: left;
+    padding: 20px 15px;
+    background: url("../images/light.jpeg") top left no-repeat;
+    width: 10px;
+
+}
+
+.views-field-counter .active {
+
+    background: url("../images/dark.jpg") top left no-repeat;
+
+}
+
+.views_slideshow_pager_field_item .views-content-counter {
+     display: none;
+ }
+
+.navbar .container .navbar-default{
+    background-color: white;
+
+}
+
+
+
+
+/*.views_slideshow_pager_field_item {*/
+ /*display: none;*/
+/*}*/
