@@ -2,4 +2,5 @@ name = Let's Time Out!
 description = Click a link to go to the time
 package = Epicodus Examples
 core = 7.x
-files[]= ajax_time.module
+files[] = ajax_time.module
+scripts[]= ajax_time.js
