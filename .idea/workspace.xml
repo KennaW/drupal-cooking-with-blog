@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86367d8a-b63e-467f-acc1-cc608ea8006b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_1mtk1v.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_1mtk1v.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_89vXcM.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_89vXcM.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_Foa9me.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/large/public/field/image/imagefield_Foa9me.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_Foa9me.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_JTZUsz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/large/public/field/image/imagefield_JTZUsz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_JTZUsz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_P6b0ds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/large/public/field/image/imagefield_P6b0ds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_P6b0ds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_SO1MkG.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_SO1MkG.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_UcorYM.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_UcorYM.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_VybOQ9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_VybOQ9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_o2CeuL.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/large/public/field/image/imagefield_o2CeuL.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_o2CeuL.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_pCstrn.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_pCstrn.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_sg2m0a.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/large/public/field/image/imagefield_sg2m0a.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_sg2m0a.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/field/image/imagefield_sg2m0a.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_vneh8u.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_vneh8u.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/field/image/imagefield_zAS2c2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/field/image/imagefield_zAS2c2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.module" />
+    <list default="true" id="86367d8a-b63e-467f-acc1-cc608ea8006b" name="Default" comment="add ajax time module skeleton">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/ajax_time/ajax_time.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/ajax_time/ajax_time.module" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cookingwithblog.iws" />
@@ -78,18 +45,38 @@
       <file leaf-file-name="mymodule.info" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6086957" vertical-offset="0" max-vertical-offset="150">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="150">
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mymodule.module" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mymodule.module" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63860667" vertical-offset="0" max-vertical-offset="704">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="-19.724138" vertical-offset="0" max-vertical-offset="704">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax_time.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/ajax_time/ajax_time.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6086957" vertical-offset="0" max-vertical-offset="150">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax_time.module" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/ajax_time/ajax_time.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695">
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -163,6 +150,8 @@
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css" />
         <option value="$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.info" />
         <option value="$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.module" />
+        <option value="$PROJECT_DIR$/sites/all/modules/ajax_time/ajax_time.info" />
+        <option value="$PROJECT_DIR$/sites/all/modules/ajax_time/ajax_time.module" />
       </list>
     </option>
   </component>
@@ -173,7 +162,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="16" />
     <option name="y" value="93" />
-    <option name="width" value="1271" />
+    <option name="width" value="1225" />
     <option name="height" value="1181" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -312,7 +301,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mymodule" />
+              <option name="myItemId" value="ajax_time" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,25 +369,31 @@
       <option name="project" value="LOCAL" />
       <updated>1433445793794</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Looks like it didn't blow up?">
+      <created>1433445914603</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1433445914603</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="93" width="1271" height="1181" extended-state="0" />
-    <editor active="false" />
+    <frame x="16" y="93" width="1225" height="1181" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291367" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27537373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2857143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -425,7 +420,9 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Hope this doesn't all blow up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hope this doesn't all blow up" />
+    <MESSAGE value="Looks like it didn't blow up?" />
+    <MESSAGE value="add ajax time module skeleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ajax time module skeleton" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -531,18 +528,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.info">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6086957" vertical-offset="0" max-vertical-offset="150">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state vertical-scroll-proportion="-19.724138" vertical-offset="0" max-vertical-offset="704">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.module">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/mymodule/mymodule.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63860667" vertical-offset="0" max-vertical-offset="704">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="150">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/ajax_time/ajax_time.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6086957" vertical-offset="0" max-vertical-offset="150">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/ajax_time/ajax_time.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
